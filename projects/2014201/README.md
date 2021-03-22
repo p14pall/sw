@@ -67,6 +67,8 @@
 
 
 Εικόνα 1): Active Badge
+
+
 Eικόνα στο site: https://github.com/p14pall/sitegr/blob/2014201/assets/images/active-badge.jpg
 
 Aποθετήριο εικόνας: https://github.com/p14pall/_gallery/blob/master/active.badge.md
@@ -74,6 +76,8 @@ Aποθετήριο εικόνας: https://github.com/p14pall/_gallery/blob/mas
 Πληροφορίες: Η πρώτη εικόνα που έχω επιλέξει από το βιβλίο "Προγραμματισμός της διάδρασης" είναι η Active Badge. To Active Badge είναι ένα από τα πρώτα συστήματα εντοπισμού θέσης σε εσωτερικό χώρο. Εκπέμπει υπέρυθρα σήματα τα οποία επιτρέπουν στους αποδέκτες των τοπικών υποδομών να εντοπίσουν το σημείο που βρίσκεται ο χρήστης εντός του κτιρίου.
 
 Εικόνα 2): App
+
+
 Eικόνα στο site: https://github.com/p14pall/sitegr/blob/2014201/assets/images/app.png
 
 Aποθετήριο εικόνας: https://github.com/p14pall/_gallery/blob/master/app1.md
