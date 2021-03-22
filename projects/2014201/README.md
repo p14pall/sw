@@ -63,7 +63,9 @@
 
 
 
-****A1**
+**A1**
+
+
 Εικόνα 1): Active Badge
 Eικόνα στο site: https://github.com/p14pall/sitegr/blob/2014201/assets/images/active-badge.jpg
 
