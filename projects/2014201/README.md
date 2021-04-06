@@ -102,7 +102,7 @@ Aποθετήριο εικόνας: https://github.com/p14pall/_gallery/blob/mas
 ### **Βήματα Διαδικασίας**
 
 Εφόσον τρέξει το terminal, έπρεπε να κατεβάσω τα απαραίτητα εργαλεία για να καταφέρω να απαντήσω στα απαραίτητα ερωτήματα. Έγινε, λοιπόν, η εγκατάσταση του sudo apt-get install mosquitto και sudo apt-get install mosquitto-clients, καθώς έχω επιλέξει το mqttwarn. Έπειτα, η διαδικασία είναι η εξής:
-    • Εκτέλεση της εντολής asciinema rec -i 0.2
+   | • Εκτέλεση της εντολής asciinema rec -i 0.2 |
     • Εκτέλεση της εντολής mosquitto
     • Ενεργοποίηση plugin
     • Εκτέλεση εντολής mqtt_sub -h localhost -t test
