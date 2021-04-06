@@ -105,9 +105,7 @@ Aποθετήριο εικόνας: https://github.com/p14pall/_gallery/blob/mas
     • Εκτέλεση της εντολής asciinema rec -i 0.2
     
     • Εκτέλεση της εντολής mosquitto
-    
     • Ενεργοποίηση plugin
-    
     • Εκτέλεση εντολής mqtt_sub -h localhost -t test
     • Εκκίνηση και εγγραφή σε topic 
     • Εγκατάσταση εφαρμογής MQTT Client
